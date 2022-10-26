@@ -1,7 +1,7 @@
 from math import exp, cos, sin
 
 def fun(x):
-    return exp(x/cos(sin(x)))
+    return exp(x/sin(x))
 
 xs = []
 ys = []
